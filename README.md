@@ -9,5 +9,5 @@ Minecraft survival plugin
 ## Kurulum
 1. JAR ı plugins klasörüne at TR
 2. Sunucuyu başlat TR
-3. by EplayYT for java 17+ minecraft servers(TR EplayYT tarafından, 1.17+ minecraft sunucuları için yapıldı
+3. by EplayYT for java 17+ minecraft servers(TR EplayYT tarafından, java 17 minecraft sunucuları için yapıldı
 
